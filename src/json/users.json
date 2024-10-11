@@ -1,0 +1,107 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "fname": "John",
+            "lname": "Doe",
+            "post": "Software Engineer",
+            "department": {
+                "code": 101,
+                "nom": "Development"
+            }
+        },
+        {
+            "id": 2,
+            "fname": "Jane",
+            "lname": "Smith",
+            "post": "Project Manager",
+            "department": {
+                "code": 102,
+                "nom": "Project Management"
+            }
+        },
+        {
+            "id": 3,
+            "fname": "Michael",
+            "lname": "Johnson",
+            "post": "UX Designer",
+            "department": {
+                "code": 103,
+                "nom": "User Experience"
+            }
+        },
+        {
+            "id": 4,
+            "fname": "Emily",
+            "lname": "Davis",
+            "post": "Data Analyst",
+            "department": {
+                "code": 104,
+                "nom": "Data Analysis"
+            }
+        },
+        {
+            "id": 5,
+            "fname": "Matthew",
+            "lname": "Wilson",
+            "post": "QA Tester",
+            "department": {
+                "code": 105,
+                "nom": "Quality Assurance"
+            }
+        },
+        {
+            "id": 6,
+            "fname": "Sophia",
+            "lname": "Garcia",
+            "post": "Systems Administrator",
+            "department": {
+                "code": 106,
+                "nom": "IT Support"
+            }
+        },
+        {
+            "id": 7,
+            "fname": "David",
+            "lname": "Martinez",
+            "post": "Database Administrator",
+            "department": {
+                "code": 107,
+                "nom": "Database Management"
+            }
+        },
+        {
+            "id": 8,
+            "fname": "Olivia",
+            "lname": "Anderson",
+            "post": "Marketing Specialist",
+            "department": {
+                "code": 108,
+                "nom": "Marketing"
+            }
+        },
+        {
+            "id": 9,
+            "fname": "James",
+            "lname": "Taylor",
+            "post": "Network Engineer",
+            "department": {
+                "code": 109,
+                "nom": "Networking"
+            }
+        },
+        {
+            "id": 10,
+            "fname": "Isabella",
+            "lname": "Thomas",
+            "post": "Sales Representative",
+            "department": {
+                "code": 110,
+                "nom": "Sales"
+            }
+        }
+    ]
+    
+
+    
+}
